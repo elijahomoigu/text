@@ -1,37 +1,70 @@
-body{
-    background-color: green;
+ul {
+  list-style-type: none;
 }
-.direction{
-
-    display: flex;
-    justify-content: space-between;
+.nav-menu {
+  padding: 1rem 4rem;
 }
-.right:hover{
-   text-decoration: line-through;
+.nav-link {
+  font-weight: normal;
+  color: #808080;
 }
-.left:hover{
-    text-decoration: underline;
-   
+.dsg-h1 {
+  font-size: 3rem;
+  font-weight: bolder;
 }
-img{
-    height: 200%;
-    width: 60%;
+.btn-start-0{
+  margin-right: 1rem;
 }
-img:hover{
-    height: 50%;
-    width: 40%;
+.btn-start {
+  border-radius: 5px;
+  color: #fff;
+  background-color: #f90;
+  font-weight: bold;
 }
-@media screen and (max-width: 900px) {
-
-    body{
-        background-color: aqua;
-        color: white;
-    }
+.first-column {
+  padding: 3rem 0;
+  text-align: center;
 }
-@media screen  and (max-width: 600px) {
-    body{
-        background-color: red;
-        color: white;
-    }
-    
+.card {
+  border: none;
+}
+/* ===== Need a Superhero ===== */
+.pad-top {
+  padding-top: 6rem;
+}
+.txt-info {
+  color: #567592;
+  font-weight: 500;
+}
+.bold-declaration {
+  color: #000;
+  text-decoration: none;
+}
+.card-body {
+  padding-left: 0;
+}
+/* ===== Footer ===== */
+.last-sect {
+  padding-top: 3rem;
+}
+.top-border {
+  padding-top: 3rem;
+}
+.text-secondary {
+  text-decoration: none;
+}
+.para-footer {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: rgb(88, 88, 88);
+}
+.foot-init {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+@media screen and (max-width: 600px) {
+  .nav-menu {
+    padding: 1rem;
+  }
 }
