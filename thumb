@@ -85,19 +85,19 @@
         </div>
       </div>
     </section>
-    <section class="next-section bg-light" >
+    <section>
         <div class="container">
             <div class="row">
-                <div class="col-12 col-md-12 md-pb col-lg-6">
-                    <img src="photo-1.jpeg" width="100%" height="100%" alt="Mobirise">
+                <div class="col">
+                    <img src="photo-1.jpeg" alt="Mobirise">
                 </div>
                 <div class="col">
-                    <div class="card card-column">
-                       <div class="wrapper">
-                            <h3 class="mbr-section-subtitle align-left mbr-fonts-style mb-3 display-7 h3">
-                                <strong>HTML, CSS, JS, Python</strong>
+                    <div class="card">
+                        <div class="wrapper">
+                            <h3 class="mbr-section-subtitle align-left mbr-fonts-style mb-3 display-7">
+                                <strong>HTML, CSS, JS, Pytnon</strong>
                             </h3>
-                            <h2 class="mbr-section-title align-left mbr-fonts-style mb-3 display-2 h2"><strong>What We Do</strong></h2>
+                            <h2 class="mbr-section-title align-left mbr-fonts-style mb-3 display-2"><strong>What We Do</strong></h2>
                             <p class="mbr-text align-left mbr-fonts-style mb-4 display-7">Lorem ipsum dolor sit
                                 amet, consectetur adipiscing
                                 elit. Accumsan porttitor egestas&nbsp;fermentum nulla.</p>
@@ -121,4 +121,31 @@
       crossorigin="anonymous"
     ></script>
   </body>
+
+  <!-- <div class="row justify-content-end">
+    <div class="col-12 col-md-12 md-pb col-lg-3">
+        
+    </div>
+    <div class="counter-container col-12 col-md-12 col-lg-9">
+        <div class="card">
+            <div class="wrapper">
+                <h3 class="mbr-section-subtitle align-left mbr-fonts-style mb-3 display-7">
+                    <strong>HTML, CSS, JS, Pytnon</strong>
+                </h3>
+                <h2 class="mbr-section-title align-left mbr-fonts-style mb-3 display-2"><strong>What We Do</strong></h2>
+                <p class="mbr-text align-left mbr-fonts-style mb-4 display-7">Lorem ipsum dolor sit
+                    amet, consectetur adipiscing
+                    elit. Accumsan porttitor egestas&nbsp;fermentum nulla.</p>
+                <div class="mbr-list mbr-text mbr-fonts-style display-7">
+                    <ul>
+                        <li><strong>App Design &amp; Development</strong></li>
+                        <li><strong>Web Development &amp; CMS</strong></li>
+                        <li><strong>Sass &amp; Pos Software Design</strong></li>
+                    </ul>
+                </div>
+                <div class="align-left mbr-section-btn mt-4"><a class="btn btn-lg btn-info display-4" href="https://mobiri.se">Free Consultation</a></div>
+            </div>
+        </div>
+    </div>
+</div> -->
 </html>
