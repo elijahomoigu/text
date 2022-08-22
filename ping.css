@@ -1,0 +1,79 @@
+.fs-1{
+    position: relative;
+    font-family: arial  black;
+    left: 0px;
+}
+.fs-2{
+    position: relative;
+    left: 60px;
+    top: 0px;
+    font-family: arial ;
+    font-size: 25px;
+}
+.we{
+    position: relative;
+    left: 395px;
+    top: 70px;
+    color: rgba(128, 128, 128, 0.788);
+    font-size: 50px;
+}
+b{
+    color: #000;
+}
+.subscribe{
+    position: relative;
+    left: 600px;
+    top: 80px;
+    color:  black;
+}
+.subscrib{
+    text-align: center;
+}
+.form{
+    width: 50%;
+    padding: 15px;
+    border-radius: 40px;
+    position: relative;
+    left: 100px;
+    top: 0px;
+    margin: 0px;
+}
+.btn{
+    position: relative;
+    left:-100px;
+    bottom: 0px;
+}
+.notify{
+    width: 200px;
+    padding: 15px;
+    border: 1px rgba(0, 0, 255, 0.527) solid;
+    background-color:rgba(0, 0, 255, 0.527) ;
+    border-radius: 40px;
+    position: relative;
+    left: 300px;
+    top: 80px;
+    margin: 10px;
+}
+.img{
+    width: 60%;
+    position: relative;
+    top: 200px;
+    left: 280px;
+}
+footer{
+    position: relative;
+    top: 400px;
+    left: 100px;
+}
+.bi{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin: 20px;
+}
+.Challenge{
+    position: relative;
+    top: 20px;
+    left: -50px;
+}
+
